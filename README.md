@@ -111,8 +111,8 @@ Se muestra una pantalla de confirmación:
 
 ## 🚀 Cómo ejecutar en local
 
-### Backend
-- cd Proyecto-backend
+### Frontend
+- cd Proyecto-frontend
 - npm install
 - npm run dev
 
